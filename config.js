@@ -3,7 +3,7 @@ module.exports = {
   ownerID: ["1071810231392272465"],//حط ايدي الاونر
   botInvite: "",//حط ايدي البوت
   supportServer: "",//حط رابط سيرفرك
-  mongodbURL: "",//حط رابط المنجو
+  mongodbURL: "mongodb+srv://Vil4n3ksiin:G66FybBEeh7o8b3V@cluster0.jp0pnlk.mongodb.net/",//حط رابط المنجو
   status: '',//حط اسمك لو حابب
   commandsDir: './commands',
   language: "en",

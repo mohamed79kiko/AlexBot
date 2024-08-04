@@ -1,6 +1,6 @@
 module.exports = {
-  TOKEN: "",//حط توكن البوت
-  ownerID: [""],//حط ايدي الاونر
+  TOKEN: process.env.token,//حط توكن البوت
+  ownerID: ["1071810231392272465"],//حط ايدي الاونر
   botInvite: "",//حط ايدي البوت
   supportServer: "",//حط رابط سيرفرك
   mongodbURL: "",//حط رابط المنجو
